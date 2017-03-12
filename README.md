@@ -1,3 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Simple TODO App using ReactJS
+
+
+#### install
+    $ npm install 
+
+#### run
+    $ npm run start
