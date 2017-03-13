@@ -1,6 +1,5 @@
 import _ from 'lodash';
 import React, {Component} from 'react';
-import './App.sass';
 import TodoList from './TodoList';
 import CreateTodo from './CreateTodo';
 
