@@ -13,11 +13,15 @@ class App extends Component {
   }
 
   componentDidMount(){
+    console.log('component did mount start.');
     TodoStore.addChangeListener(this._onChange)
+    console.log('component did mount end.');
   }
 
   componentWillUnmount(){
+    console.log('component will unmount start.');
     TodoStore.removeChangeListener(this._onChange)
+    console.log('component will unmount end.');
   }
 
   _onChange(){

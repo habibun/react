@@ -20,15 +20,21 @@ export let TodoStore = Object.assign({}, EventEmitter.prototype, {
     getCount: getCount,
 
     emitChange: function(){
+        console.log('emit change event start.');
         this.emit('CHANGE_EVENT')
+        console.log('emit change event end.');
     },
 
     addChangeListener: function(callback){
+        console.log('add change listener event start.');
         this.on('CHANGE_EVENT', callback)
+        console.log('add change listener event end.');
     },
     
     removeChangeListener: function(callback){
+        console.log('remove change listener start.');
         this.removeListener('CHANGE_EVENT', callback)
+        console.log('remove change listener end.');
     }
 })
 
