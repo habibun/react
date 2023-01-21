@@ -2,23 +2,23 @@
 A JavaScript library for building user interfaces
 
 
-| Branch              | React Version | Node Version    |
-|---------------------|---------------|-----------------|
-| [5.4.x][branch_url] | `x.x`         | `8.0` or higher |
-| [4.4.x][branch_url] | `x.x`         | `7.4` or higher |
+| Branch                           | React Version |
+|----------------------------------|---------------|
+| [shaden-bsharat][shaden-bsharat] | `^18.2`       |
 
 
-Read [topic Docs](xxx)
+Read [React Docs](https://reactjs.org/docs/getting-started.html)
 
 
 ### Resources
-- [title](url)
+- [`shaden-bsharat`][shaden-bsharat]
+  - [How to Build a Simple Todo App with React](https://blog.devgenius.io/how-to-build-a-simple-todo-app-with-react-dd979a6a7a8a) 
 
 
 ### License
 The code is licensed under the [MIT License][license]
 
 
-[branch_url]: https://github.com/habibun/repo-name/tree/branch-name
 [license]: https://github.com/habibun/react/blob/main/LICENSE
+[shaden-bsharat]: https://github.com/habibun/react/tree/shaden-bsharat
 
