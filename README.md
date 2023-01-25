@@ -40,6 +40,7 @@ npm start
 
 #### Learn More
   - [Official React Docs](https://reactjs.org/docs/getting-started.html)
+  - [React Hooks Fundamentals for Beginners](https://www.freecodecamp.org/news/react-hooks-fundamentals)
   - [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)
 
 
