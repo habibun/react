@@ -21,6 +21,7 @@ Please check the [projects](#projects) section for more details.
 
 **Project Description:** This is a simple todo app with react  
 **Project Link:** https://github.com/habibun/react/tree/shaden-bsharat  
+**Project Branch:** `shaden-bsharat`  
 **Inspired By:** [How to Build a Simple Todo App with React][shaden-bsharat-url]  
 <br/>  
 
