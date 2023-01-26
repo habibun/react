@@ -89,6 +89,6 @@ Distributed under the MIT License. See **[LICENSE][license]** for more informati
 [shaden-bsharat-url-tooltip]: https://blog.devgenius.io/how-to-build-a-simple-todo-app-with-react-dd979a6a7a8a "How to Build a Simple Todo App with React"
 
 [//]: # (To-Do in React.js)
-[kavishmehta]: https://github.com/habibun/react/tree/shaden-bsharat
+[kavishmehta]: https://github.com/habibun/react/tree/kavishmehta
 [kavishmehta-url]: https://codepen.io/kavishmehta/pen/yaxwVR
 
