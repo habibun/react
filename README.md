@@ -42,7 +42,7 @@ npm start
 <details><summary>To-Do in React.js</summary>  
 <p>
     
-![React App](https://user-images.githubusercontent.com/5810350/214475325-837151ed-2886-470c-b482-f787af0a3ca2.png)  
+![React App](https://user-images.githubusercontent.com/5810350/214866660-176d87ff-fcd6-497c-be83-71d4dec46025.png)
 
 **Project Description:** This is a simple todo app with react  
 **Project Link:** https://github.com/habibun/react/tree/kavishmehta  
@@ -54,7 +54,7 @@ npm start
 git clone git@github.com:habibun/react.git
 cd react
 git checkout kavishmehta
-git pull origin shaden-bsharat
+git pull origin kavishmehta
 npm install
 npm start
 ```
