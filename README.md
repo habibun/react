@@ -137,6 +137,10 @@ npm start
 - [Official React Docs](https://reactjs.org/docs/getting-started.html)
 - [React Hooks Fundamentals for Beginners](https://www.freecodecamp.org/news/react-hooks-fundamentals)
 - [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)
+- [Semantic UI React Docs](https://react.semantic-ui.com/)
+- [React Router Docs](https://reactrouter.com/en/main)
+- [Axios Docs](https://axios-http.com/docs/intro)
+- [MockAPI.io Docs](https://mockapi.io/docs)
 
 
 ---
