@@ -46,7 +46,7 @@ npm start
 
 ![React App](https://user-images.githubusercontent.com/5810350/214475325-837151ed-2886-470c-b482-f787af0a3ca2.png)
 
-**Project Description:** This is a simple todo app with react  
+**Project Description:** Simple CRUD Operations using React, React Hooks, and Axios 
 **Project Link:** https://github.com/habibun/react/tree/nishant-kumar  
 **Inspired By:** [How to Perform CRUD Operations using React, React Hooks, and Axios][nishant-kumar-url]  
 <br/>
