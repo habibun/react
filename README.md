@@ -44,7 +44,7 @@ npm start
 <details><summary>CRUD Operations</summary>  
 <p>
 
-![React App](https://user-images.githubusercontent.com/5810350/214475325-837151ed-2886-470c-b482-f787af0a3ca2.png)
+![React App](https://user-images.githubusercontent.com/5810350/215074670-93558deb-c5dc-40b7-9198-d85e1fd5853a.png)  
 
 **Project Description:** Simple CRUD Operations using React, React Hooks, and Axios 
 **Project Link:** https://github.com/habibun/react/tree/nishant-kumar  
