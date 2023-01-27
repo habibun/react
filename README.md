@@ -90,7 +90,7 @@ npm start
 <details><summary>Simple counter with Flux architecture</summary>  
 <p>
     
-**Project Description:** Simple counter using ReactJS with Flux architecture
+**Project Description:** Simple counter using ReactJS with Flux architecture  
 **Project Link:** https://github.com/habibun/react/tree/react-flux  
 **Inspired By:** ~  
 <br/>  
