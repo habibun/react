@@ -10,9 +10,10 @@ Please check the [projects](#projects) section for more details.
 | Title                                   | Branch           | React Version | Node Version | Inspired By                                   |
 |-----------------------------------------|------------------|---------------|--------------|-----------------------------------------------|
 | [Simple Todo App][shaden-bsharat]       | `shaden-bsharat` | `^18.2`       | `18.13`      | [Simple Todo App][shaden-bsharat-url-tooltip] |
+| [CRUD Operations][nishant-kumar]        | `nishant-kumar`  | `^17.0`       | `14.21`      | [CRUD Operations][nishant-kumar-url-tooltip]  |
+| [Counter with Flux][react-flux-tooltip] | `react-flux`     | `^15.5`       | `~`          | ~                                             |
 | [To-Do in React.js][kavishmehta]        | `kavishmehta`    | `^15.4`       | `12.22`      | [To-Do in React.js][kavishmehta-url]          |
 | [React starter kit][starter-kit]        | `starter-kit`    | `^15.4`       | `12.22`      | ~                                             |
-| [Counter with Flux][react-flux-tooltip] | `react-flux`     | `^15.5`       | `~`          | ~                                             |
 
 
 ---
@@ -33,6 +34,29 @@ git clone git@github.com:habibun/react.git
 cd react
 git checkout shaden-bsharat
 git pull origin shaden-bsharat
+npm install
+npm start
+```
+
+</p>
+</details>
+
+<details><summary>CRUD Operations</summary>  
+<p>
+
+![React App](https://user-images.githubusercontent.com/5810350/214475325-837151ed-2886-470c-b482-f787af0a3ca2.png)
+
+**Project Description:** This is a simple todo app with react  
+**Project Link:** https://github.com/habibun/react/tree/nishant-kumar  
+**Inspired By:** [How to Perform CRUD Operations using React, React Hooks, and Axios][nishant-kumar-url]  
+<br/>
+
+#### Installation
+```bash
+git clone git@github.com:habibun/react.git
+cd react
+git checkout nishant-kumar
+git pull origin nishant-kumar
 npm install
 npm start
 ```
@@ -65,6 +89,28 @@ npm start
 </details>
 
 
+<details><summary>Counter with Flux</summary>  
+<p>
+
+**Project Description:** Simple counter using ReactJS with Flux architecture  
+**Project Link:** https://github.com/habibun/react/tree/react-flux  
+**Inspired By:** ~  
+<br/>
+
+#### Installation
+```bash
+git clone git@github.com:habibun/react.git
+cd react
+git checkout react-flux
+git pull origin react-flux
+npm install
+npm start
+```
+
+</p>
+</details>
+
+
 <details><summary>React starter kit</summary>  
 <p>
 
@@ -79,28 +125,6 @@ git clone git@github.com:habibun/react.git
 cd react
 git checkout starter-kit
 git pull origin starter-kit
-npm install
-npm start
-```
-
-</p>
-</details>
-
-
-<details><summary>Counter with Flux</summary>  
-<p>
-    
-**Project Description:** Simple counter using ReactJS with Flux architecture  
-**Project Link:** https://github.com/habibun/react/tree/react-flux  
-**Inspired By:** ~  
-<br/>
-
-#### Installation
-```bash
-git clone git@github.com:habibun/react.git
-cd react
-git checkout react-flux
-git pull origin react-flux
 npm install
 npm start
 ```
@@ -146,3 +170,8 @@ Distributed under the MIT License. See **[LICENSE][license]** for more informati
 [//]: # (Simple counter with Flux architecture)
 [react-flux]: https://github.com/habibun/react/tree/react-flux
 [react-flux-tooltip]: https://github.com/habibun/react/tree/react-flux "Simple counter with Flux architecture"
+
+[//]: # (CRUD Operations)
+[nishant-kumar]: https://github.com/habibun/react/tree/nishant-kumar
+[nishant-kumar-url]: https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-react/
+[nishant-kumar-url-tooltip]: https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-react/ "How to Perform CRUD Operations using React, React Hooks, and Axios"
