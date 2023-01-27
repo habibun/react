@@ -7,11 +7,12 @@ Please check the [projects](#projects) section for more details.
 
 ---
 ## Overview
-| Title                             | Branch           | React Version | Node Version | Inspired By                                   |
-|-----------------------------------|------------------|---------------|--------------|-----------------------------------------------|
-| [Simple Todo App][shaden-bsharat] | `shaden-bsharat` | `^18.2`       | `18.13`      | [Simple Todo App][shaden-bsharat-url-tooltip] |
-| [To-Do in React.js][kavishmehta]  | `kavishmehta`    | `^15.4`       | `12.22`      | [To-Do in React.js][kavishmehta-url]          |
-| [React starter kit][starter-kit]  | `starter-kit`    | `^15.4`       | `12.22`      | ~                                             |
+| Title                                               | Branch           | React Version | Node Version | Inspired By                                   |
+|-----------------------------------------------------|------------------|---------------|--------------|-----------------------------------------------|
+| [Simple Todo App][shaden-bsharat]                   | `shaden-bsharat` | `^18.2`       | `18.13`      | [Simple Todo App][shaden-bsharat-url-tooltip] |
+| [To-Do in React.js][kavishmehta]                    | `kavishmehta`    | `^15.4`       | `12.22`      | [To-Do in React.js][kavishmehta-url]          |
+| [React starter kit][starter-kit]                    | `starter-kit`    | `^15.4`       | `12.22`      | ~                                             |
+| [Simple counter with Flux architecture][react-flux] | `react-flux`     | `^15.5`       | `~`          | ~                                             |
 
 
 ---
@@ -86,6 +87,28 @@ npm start
 </details>
 
 
+<details><summary>Simple counter with Flux architecture</summary>  
+<p>
+    
+**Project Description:** Simple counter using ReactJS with Flux architecture
+**Project Link:** https://github.com/habibun/react/tree/react-flux  
+**Inspired By:** ~  
+<br/>  
+
+#### Installation
+```bash
+git clone git@github.com:habibun/react.git
+cd react
+git checkout react-flux
+git pull origin react-flux
+npm install
+npm start
+```
+
+</p>
+</details>
+
+
 #### Learn More
   - [Official React Docs](https://reactjs.org/docs/getting-started.html)
   - [React Hooks Fundamentals for Beginners](https://www.freecodecamp.org/news/react-hooks-fundamentals)
@@ -118,4 +141,8 @@ Distributed under the MIT License. See **[LICENSE][license]** for more informati
 
 [//]: # (React starter kit)
 [starter-kit]: https://github.com/habibun/react/tree/starter-kit
+
+
+[//]: # (Simple counter with Flux architecture)
+[react-flux]: https://github.com/habibun/react/tree/react-flux
 
