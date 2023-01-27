@@ -11,6 +11,7 @@ Please check the [projects](#projects) section for more details.
 |-----------------------------------|------------------|---------------|--------------|-----------------------------------------------|
 | [Simple Todo App][shaden-bsharat] | `shaden-bsharat` | `^18.2`       | `18.13`      | [Simple Todo App][shaden-bsharat-url-tooltip] |
 | [To-Do in React.js][kavishmehta]  | `kavishmehta`    | `^15.4`       | `12.22`      | [To-Do in React.js][kavishmehta-url]          |
+| [React starter kit][starter-kit]  | `starter-kit`    | `^15.4`       | `12.22`      | ~                                             |
 
 
 ---
@@ -63,6 +64,28 @@ npm start
 </details>
 
 
+<details><summary>React starter kit</summary>  
+<p>
+    
+**Project Description:** This is a starter kit react project with webpack
+**Project Link:** https://github.com/habibun/react/tree/starter-kit  
+**Inspired By:** ~  
+<br/>  
+
+#### Installation
+```bash
+git clone git@github.com:habibun/react.git
+cd react
+git checkout starter-kit
+git pull origin starter-kit
+npm install
+npm start
+```
+
+</p>
+</details>
+
+
 #### Learn More
   - [Official React Docs](https://reactjs.org/docs/getting-started.html)
   - [React Hooks Fundamentals for Beginners](https://www.freecodecamp.org/news/react-hooks-fundamentals)
@@ -91,4 +114,8 @@ Distributed under the MIT License. See **[LICENSE][license]** for more informati
 [//]: # (To-Do in React.js)
 [kavishmehta]: https://github.com/habibun/react/tree/kavishmehta
 [kavishmehta-url]: https://codepen.io/kavishmehta/pen/yaxwVR
+
+
+[//]: # (React starter kit)
+[starter-kit]: https://github.com/habibun/react/tree/starter-kit
 
